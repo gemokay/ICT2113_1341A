@@ -1,6 +1,4 @@
-# 8. Prototype Overview
-
-## 8.1 Purpose of the Prototype
+## Purpose of the Prototype
 
 A low-fidelity prototype was developed during the Analysing phase to
 support requirements clarification, validation of operational
@@ -12,7 +10,7 @@ derived from the Project Specification. Its primary role is to
 facilitate discussion, uncover ambiguities, and support informed
 interpretation of requirements.
 
-## 8.2 Scope of the Prototype
+## Scope of the Prototype
 
 The prototype focuses on a limited subset of high-risk and high-impact
 system capabilities identified during the Breakdown activity. These
@@ -30,7 +28,7 @@ reporting, and external system integrations --- were intentionally
 excluded to avoid premature design commitment and scope expansion during
 the Analysing phase.
 
-## 8.3 Prototype Fidelity & Constraints
+## Prototype Fidelity & Constraints
 
 The prototype was implemented at a high fidelity level. Its emphasis was
 placed on functional flow, information structure, and interaction
@@ -48,7 +46,7 @@ The prototype operates under several constraints:
 As such, the prototype should be interpreted as a conceptual validation
 tool rather than an implementation blueprint.
 
-## 8.4 Role of the Prototype
+## Role of the Prototype
 
 Within the BCIC framework, the prototype primarily supports the
 **Clarify** and **Interpret** activities. It:
@@ -64,7 +62,7 @@ Feedback and insights derived from prototype usage were documented and
 incorporated into the requirements repository as part of the
 regulated-revision process.
 
-## 8.5 Limitations and Forward Use
+## Limitations and Forward Use
 
 The prototype does not constitute a commitment to specific technologies,
 system architectures, or user interface designs. Its outputs are
