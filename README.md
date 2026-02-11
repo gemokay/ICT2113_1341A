@@ -1,6 +1,6 @@
 # ICT2113_1341A
 
-This repository contains project material and a small requirements sub-repo used for the ICT2113 course.
+This repository contains project material and a small requirements sub-repo used for Hostel Management App & System.
 
 ## Folder structure
 
