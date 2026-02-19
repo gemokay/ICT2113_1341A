@@ -4,7 +4,6 @@
 **Customer:** Greenwood University Hostels Division (G-UHD)
 **Document Version:** v0.1
 **Status:** Completed
-**Source:** Appendix A — Breakdown of Incongruent Requirements
 
 ---
 
