@@ -1,9 +1,9 @@
-# Breakdown_v0.1 — Incongruent Requirements
-**Project:** Hostel Management App & System (SHMS)
-**Vendor:** TechNest Solutions Pte. Ltd.
-**Customer:** Greenwood University Hostels Division (G-UHD)
-**Document Version:** v0.1
-**Status:** Completed
+# Breakdown_v0.1 — Incongruent Requirements  
+**Project:** Hostel Management App & System (SHMS)  
+**Vendor:** TechNest Solutions Pte. Ltd.  
+**Customer:** Greenwood University Hostels Division (G-UHD)  
+**Document Version:** v0.1  
+**Status:** Completed  
 
 ---
 
