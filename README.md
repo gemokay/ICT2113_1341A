@@ -5,9 +5,8 @@ This repository contains project material and a small requirements sub-repo used
 ## Folder structure
 
 - **SHMS-reqrs-repo/**: Requirements repository used by the project
-	- **BCIC/**: TBD desc
+	- **BCIC/**: contains BCIC elements and their relevant components
 	- **Models/**: Contains model documents such as the data dictionary
 	- **Requirements/**: Requirement documents
 		- **Functional Reqrs/**: Functional requirements
 		- **Non Functional Reqrs/**: Non-functional requirements
-
